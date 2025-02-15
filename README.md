@@ -1,7 +1,7 @@
 # MD_AGRIC-Data-Pipeline
 
 ## Project Overview 
-This project is an Integrated Project involving building data pipelines from data ingestion to data pre-processing and validation of the data.
+This project involves building an integrated data pipeline, covering data ingestion, preprocessing, and validation to ensure data quality and reliability.
 
 ## Reference
 ALX Data Science 
